@@ -28,7 +28,7 @@ function App() {
         </p>
       <https://github.com/Hesara2003/Path2intern/pull/1/conflict?name=Path2Intern%252Fsrc%252FApp.jsx&ancestor_oid=f67355ae04c4000eef464262481f6b02daa50789&base_oid=7f8bfd3dd06f499856cbd478ea5b0013da5b5265&head_oid=553f477bd28cd8a24a89703cd4ed7591dda6318d/div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the logos to learn more
       </p>
 
     </>
