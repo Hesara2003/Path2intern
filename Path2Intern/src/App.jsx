@@ -30,6 +30,8 @@ function App() {
       </p>
       <p>hellooooo i am sandali</p>
       <p>i am learning react</p>
+      <p>i am learning git</p>
+      <p>i am learning javascript</p>
     </>
   )
 }
